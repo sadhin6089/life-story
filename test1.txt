@@ -6,3 +6,4 @@ I have completed my MSc in 2028
 I have started my full stack web development job in 2021.
 I will join at MFile 1st of December.
 Logo alignment is centerd.
+font size is fira sans
